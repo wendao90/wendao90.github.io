@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+你好，这里是一些关于（防病毒）口罩的文献工作整理。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+欢迎有志于致力（防病毒）口罩优化的希望一起阅读文献的同道私信我。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xiaochengxvdadada@163.com](mailto:xiaochengxvdadada@163.com)
