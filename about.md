@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于
-permalink: /关于/
+permalink: /about/
 ---
 
 你好，这里是一些关于（防病毒）口罩的文献工作整理。
