@@ -29,6 +29,11 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+.pmc-wm {
+    background: transparent repeat-y top left;
+    background-image: url(https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/wm-bmcresnotes.gif);
+    background-size: auto, contain;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
