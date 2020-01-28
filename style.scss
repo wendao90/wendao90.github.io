@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $whitesmoke;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font: 18px/1.4 $myfontfamily;
+  color: $mygray_body;
 }
 
 .container {
@@ -36,8 +36,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $myfontfamily;
+  color: $mygray_head;
   font-weight: bold;
 
   line-height: 1.7;
