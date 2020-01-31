@@ -35,9 +35,10 @@ body {
     background-size: auto, contain;
 }
 .pagebox {
-    max-width: none;
-    padding: 0 1em 1em 3em;
     margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 10px;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
