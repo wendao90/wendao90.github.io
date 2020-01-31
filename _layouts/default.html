@@ -17,26 +17,22 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="pagebox pmc-wm hide-overflow">
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
           <nav>
             <a href="{{ site.baseurl }}/">博客</a>
             <a href="{{ site.baseurl }}/about">关于</a>
           </nav>
         </header>
       </div>
-      </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="container pagebox pmc-wm hide-overflow">
       {{ content }}
     </div>
 
