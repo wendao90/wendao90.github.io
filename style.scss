@@ -24,14 +24,15 @@ body {
 }
 
 .container {
-  margin: 20 auto;
+  margin: 0 20;
   max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
 .pmc-wm {
+    margin: 0 0;
     background: transparent repeat-y top left;
-    background-image: url(https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/wm-bmcresnotes.gif);
+    background-image: url(https://wendao90.github.io/images/wm-bmcresnotes.gif);
     background-size: auto, contain;
 }
 
