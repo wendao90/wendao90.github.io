@@ -26,11 +26,10 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1000px;
-  padding: 0 10px;
+  padding: 0 10px 0 10px;
   width: 100%;
 }
 .pmc-wm {
-    margin: 0 0;
     background: transparent repeat-y top left;
     background-image: url(https://wendao90.github.io/images/wm-bmcresnotes.gif);
     background-size: auto, contain;
