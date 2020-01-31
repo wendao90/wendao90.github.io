@@ -34,6 +34,13 @@ body {
     background-image: url(https://wendao90.github.io/images/wm-bmcresnotes.gif);
     background-size: auto, contain;
 }
+.pagebox {
+    max-width: none;
+    padding: 0 1em 1em 3em;
+    border: 0;
+    margin: 0 auto;
+    border-radius: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $myfontfamily;
